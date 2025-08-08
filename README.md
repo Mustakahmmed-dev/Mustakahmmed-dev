@@ -1,3 +1,4 @@
+<img src="Mustak Ahmmed Github Banner.png"/>
 # 💫 About Me:
 I'm currently learning on the Front End Development with a focus on full stack development.
 
