@@ -36,3 +36,15 @@ I’m Mustak Ahmmed, a skilled Frontend Developer with a strong foundation in bu
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustakahmmed/)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustakahmmed)  
+
+## Github Stats
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <div style="display: flex; align-items: stretch;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mustakahmmed-dev&theme=blue-green&show_icons=true&hide_border=true&count_private=true" style="flex: 1; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustakahmmed-dev&theme=blue-green&show_icons=true&hide_border=true&layout=compact" style="flex: 1; height: 200px;" />
+  </div>
+
+  <div style="width: 100%; text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustakahmmed-dev&theme=blue-green&hide_border=true" />
+  </div>
+</div>
